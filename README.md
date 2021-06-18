@@ -5,4 +5,4 @@ Exercício de intent e cardview
 ## MOBILE
 
 
-https://github.com/jordanruan/CardProva/blob/master/CardProva.gif?raw=true
+![enter image description here](https://github.com/jordanruan/CardProva/blob/master/CardProva.gif?raw=true)
