@@ -8,7 +8,7 @@ Exercicio para aprimorar minhas habilidades com a linguaguem Java e aprendizado 
   - CardView
   - Button
  
-## Modelo MOBILE
+## MOBILE
 
 
 ![enter image description here](https://github.com/jordanruan/CardProva/blob/master/CardProva.gif?raw=true)
